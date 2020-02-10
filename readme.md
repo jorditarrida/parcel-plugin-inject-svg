@@ -14,7 +14,7 @@ add a .posthtmlrc to you root project, it will automatically trigger the plugin 
 ```
 {
   "plugins": {
-    "posthtml-svg-inline": {
+    "parcel-plugin-inject-svg": {
       "root": "src/templates"
     }
   }
